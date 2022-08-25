@@ -1,2 +1,2 @@
 # JavaAranoua8rec
-Atividades em Sala no dia 10/06/2022
+Atividades em Sala no dia 20/06/2022
